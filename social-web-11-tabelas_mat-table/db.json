@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "nome": "Gustavo",
+      "cpf": "84597264019",
+      "idade": "30",
+      "id": 2,
+      "telefone": "83999007651"
+    },
+    {
+      "nome": "Paula",
+      "cpf": "04256264078",
+      "idade": "26",
+      "telefone": "12345678",
+      "id": 3
+    },
+    {
+      "nome": "Bartolomeu Pinto",
+      "cpf": "56395764055",
+      "idade": "21",
+      "telefone": "1234567890",
+      "id": 4
+    },
+    {
+      "nome": "Astrogilda",
+      "cpf": "75585317059",
+      "idade": "55",
+      "telefone": "12345678910",
+      "id": 5
+    },
+    {
+      "nome": "teste",
+      "cpf": "08289648405",
+      "idade": "21",
+      "telefone": "12345678910",
+      "id": 6
+    }
+  ],
+  "mensagens": []
+}
